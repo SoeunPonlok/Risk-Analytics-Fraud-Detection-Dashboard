@@ -28,7 +28,8 @@ Risk-Analytics-Fraud-Detection-Dashboard/
 
 ## Dashboard Preview
 
-Dashboard screenshots will be added here.
+<img width="2152" height="1210" alt="Executive_Summary_Insights" src="https://github.com/user-attachments/assets/7524ee71-d9ff-4250-8bda-23ff1318b4e0" />
+
 
 ## Author
 
